@@ -1,0 +1,1177 @@
+[{
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "flagUrl": "https://cdn.britannica.com/40/5340-050-AA46700D/Flag-Afghanistan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Afghanistan"
+    },
+    {
+        "name": "Albania",
+        "capital": "Tirana",
+        "flagUrl": "https://cdn.britannica.com/00/6200-050-2E25CE97/Flag-Albania.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Albania"
+    },
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "flagUrl": "https://cdn.britannica.com/34/3034-050-077DE27D/Flag-Algeria.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Algeria"
+    },
+    {
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "flagUrl": "https://cdn.britannica.com/83/5583-050-2F48FD32/Flag-Andorra.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Andorra"
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "flagUrl": "https://cdn.britannica.com/12/4212-050-FC697931/Flag-Angola.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Angola"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "capital": "Saint John’s",
+        "flagUrl": "https://cdn.britannica.com/04/5104-050-9E557169/Flag-Antigua-and-Barbuda.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Antigua-and-Barbuda"
+    },
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "flagUrl": "https://cdn.britannica.com/69/5869-050-6DD75C6F/Flag-Argentina.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Argentina"
+    },
+    {
+        "name": "Armenia",
+        "capital": "Yerevan",
+        "flagUrl": "https://cdn.britannica.com/11/4711-050-21AC717B/Flag-Armenia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Armenia"
+    },
+    {
+        "name": "Australia",
+        "capital": "Canberra",
+        "flagUrl": "https://cdn.britannica.com/78/6078-050-18D5DEFE/Flag-Australia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Australia"
+    },
+    {
+        "name": "Austria",
+        "capital": "Vienna",
+        "flagUrl": "https://cdn.britannica.com/73/6073-050-4D6FDAF6/Flag-Austria.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Austria"
+    },
+    {
+        "name": "Azerbaijan",
+        "capital": "Baku",
+        "flagUrl": "https://cdn.britannica.com/14/4714-050-208C0B4A/Flag-Azerbaijan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Azerbaijan"
+    },
+    {
+        "name": "The Bahamas",
+        "capital": "Nassau",
+        "flagUrl": "https://cdn.britannica.com/06/5106-050-D11C8B55/Flag-of-The-Bahamas.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/The-Bahamas"
+    },
+    {
+        "name": "Bahrain",
+        "capital": "Manama",
+        "flagUrl": "https://cdn.britannica.com/67/5767-050-CF112244/Flag-Bahrain.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Bahrain"
+    },
+    {
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "flagUrl": "https://cdn.britannica.com/67/6267-050-8A26DFEE/Flag-Bangladesh.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Bangladesh"
+    },
+    {
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "flagUrl": "https://cdn.britannica.com/08/5108-050-183F69E4/Flag-Barbados.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Barbados"
+    },
+    {
+        "name": "Belarus",
+        "capital": "Minsk",
+        "flagUrl": "https://cdn.britannica.com/01/6401-050-0540EE12/Flag-Belarus.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Belarus"
+    },
+    {
+        "name": "Belgium",
+        "capital": "Brussels",
+        "flagUrl": "https://cdn.britannica.com/08/6408-050-03D00EC3/Flag-Belgium.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Belgium"
+    },
+    {
+        "name": "Belize",
+        "capital": "Belmopan",
+        "flagUrl": "https://cdn.britannica.com/07/7207-050-9EFE28B7/Flag-Belize.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Belize"
+    },
+    {
+        "name": "Benin",
+        "capital": "Porto-Novo",
+        "flagUrl": "https://cdn.britannica.com/37/5037-050-D5FCC732/Flag-Benin.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Benin"
+    },
+    {
+        "name": "Bhutan",
+        "capital": "Thimphu",
+        "flagUrl": "https://cdn.britannica.com/79/6479-050-27099C64/flag-dragon-image-Bhutan-design.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Bhutan"
+    },
+    {
+        "name": "Bolivia",
+        "capital": "La Paz",
+        "flagUrl": "https://cdn.britannica.com/54/6754-050-897FBD93/Flag-Bolivia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Bolivia"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "flagUrl": "https://cdn.britannica.com/02/6202-050-E13D91F5/Flag-Bosnia-and-Herzegovina.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Bosnia-and-Herzegovina"
+    },
+    {
+        "name": "Botswana",
+        "capital": "Gaborone",
+        "flagUrl": "https://cdn.britannica.com/15/4215-050-C5CDCBC8/Flag-Botswana.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Botswana"
+    },
+    {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "flagUrl": "https://cdn.britannica.com/47/6847-050-075C3C65/Flag-Brazil.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Brazil"
+    },
+    {
+        "name": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "flagUrl": "https://cdn.britannica.com/24/4024-050-7385D7F2/Flag-Brunei.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Brunei"
+    },
+    {
+        "name": "Bulgaria",
+        "capital": "Sofia",
+        "flagUrl": "https://cdn.britannica.com/04/6204-050-532576DB/Flag-Bulgaria.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Bulgaria"
+    },
+    {
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "flagUrl": "https://cdn.britannica.com/40/5040-050-1735B7DC/Flag-Burkina-Faso.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Burkina-Faso"
+    },
+    {
+        "name": "Burundi",
+        "capital": "Bujumbura",
+        "flagUrl": "https://cdn.britannica.com/77/7177-050-246CAF00/Flag-Burundi.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Burundi"
+    },
+    {
+        "name": "Cabo Verde",
+        "capital": "Praia",
+        "flagUrl": "https://cdn.britannica.com/44/5044-050-2530FC16/Flag-Cabo-Verde.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Cabo-Verde"
+    },
+    {
+        "name": "Cambodia",
+        "capital": "Phnom Penh",
+        "flagUrl": "https://cdn.britannica.com/27/4027-050-973CC0B1/Flag-Cambodia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Cambodia"
+    },
+    {
+        "name": "Cameroon",
+        "capital": "Yaoundé",
+        "flagUrl": "https://cdn.britannica.com/42/5042-050-CE5D885F/Flag-Cameroon.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Cameroon"
+    },
+    {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "flagUrl": "https://cdn.britannica.com/68/7068-050-54679E29/Flag-Canada.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Canada"
+    },
+    {
+        "name": "Central African Republic",
+        "capital": "Bangui",
+        "flagUrl": "https://cdn.britannica.com/80/7180-050-50F152C9/Flag-Central-African-Republic.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Central-African-Republic"
+    },
+    {
+        "name": "Chad",
+        "capital": "N’Djamena",
+        "flagUrl": "https://cdn.britannica.com/46/5046-050-DFE46CE8/Flag-Chad.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Chad"
+    },
+    {
+        "name": "Chile",
+        "capital": "Santiago",
+        "flagUrl": "https://cdn.britannica.com/85/7485-050-2615417F/Flag-Chile.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Chile"
+    },
+    {
+        "name": "China",
+        "capital": "Beijing (Peking)",
+        "flagUrl": "https://cdn.britannica.com/90/7490-050-5D33348F/Flag-China.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/China"
+    },
+    {
+        "name": "Colombia",
+        "capital": "Bogotá",
+        "flagUrl": "https://cdn.britannica.com/68/7668-050-9304EBB7/Flag-Colombia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Colombia"
+    },
+    {
+        "name": "Comoros",
+        "capital": "Moroni",
+        "flagUrl": "https://cdn.britannica.com/40/7740-050-C43A463A/Flag-Comoros.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Comoros"
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "flagUrl": "https://cdn.britannica.com/94/7194-050-B789AB29/Flag-Democratic-Republic-of-the-Congo.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Democratic-Republic-of-the-Congo"
+    },
+    {
+        "name": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "flagUrl": "https://cdn.britannica.com/82/7182-050-B715705B/Flag-Republic-of-the-Congo.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Republic-of-the-Congo"
+    },
+    {
+        "name": "Costa Rica",
+        "capital": "San José",
+        "flagUrl": "https://cdn.britannica.com/25/7225-050-7CC95EBB/Flag-Costa-Rica.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Costa-Rica"
+    },
+    {
+        "name": "Côte d’Ivoire",
+        "capital": "Yamoussoukro",
+        "flagUrl": "https://cdn.britannica.com/48/5048-050-69610380/Flag-Cote-dIvoire.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Cote-dIvoire"
+    },
+    {
+        "name": "Croatia",
+        "capital": "Zagreb",
+        "flagUrl": "https://cdn.britannica.com/06/6206-050-4A54E70D/Flag-Croatia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Croatia"
+    },
+    {
+        "name": "Cuba",
+        "capital": "Havana",
+        "flagUrl": "https://cdn.britannica.com/10/5110-050-2BED0911/Flag-Cuba.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Cuba"
+    },
+    {
+        "name": "Cyprus",
+        "capital": "Nicosia ",
+        "flagUrl": "https://cdn.britannica.com/83/7883-050-0E5BCA30/Flag-Cyprus.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Cyprus"
+    },
+    {
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "flagUrl": "https://cdn.britannica.com/86/7886-050-9D2D04BC/Flag-Czech-Republic.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Czech-Republic"
+    },
+    {
+        "name": "Denmark",
+        "capital": "Copenhagen",
+        "flagUrl": "https://cdn.britannica.com/07/8007-050-D4170843/Flag-Denmark.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Denmark"
+    },
+    {
+        "name": "Djibouti",
+        "capital": "Djibouti",
+        "flagUrl": "https://cdn.britannica.com/06/06-050-86528B6B/Flag-Djibouti.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Djibouti"
+    },
+    {
+        "name": "Dominica",
+        "capital": "Roseau",
+        "flagUrl": "https://cdn.britannica.com/12/5112-050-2A5C6946/Flag-Dominica.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Dominica"
+    },
+    {
+        "name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "flagUrl": "https://cdn.britannica.com/14/5114-050-E4DD455C/Flag-Dominican-Republic.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Dominican-Republic"
+    },
+    {
+        "name": "East Timor",
+        "capital": "Dili",
+        "flagUrl": "https://cdn.britannica.com/60/72760-050-4F87197C/Flag-of-East-Timor.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/East-Timor"
+    },
+    {
+        "name": "Ecuador",
+        "capital": "Quito",
+        "flagUrl": "https://cdn.britannica.com/49/149-050-7AD40B1F/flag-design-similarities-Ecuador-Colombia-flags-Venezuela.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Ecuador"
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "flagUrl": "https://cdn.britannica.com/85/185-050-6A8E2E8A/Flag-Egypt.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Egypt"
+    },
+    {
+        "name": "El Salvador",
+        "capital": "San Salvador",
+        "flagUrl": "https://cdn.britannica.com/10/7210-050-1A504E56/Flag-El-Salvador.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/El-Salvador"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "capital": "Malabo",
+        "flagUrl": "https://cdn.britannica.com/50/5050-050-27172FF8/Flag-Equatorial-Guinea.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Equatorial-Guinea"
+    },
+    {
+        "name": "Eritrea",
+        "capital": "Asmara",
+        "flagUrl": "https://cdn.britannica.com/09/09-050-203EC8B0/Flag-Eritrea.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Eritrea"
+    },
+    {
+        "name": "Estonia",
+        "capital": "Tallinn",
+        "flagUrl": "https://cdn.britannica.com/46/6246-050-F6E15290/Flag-Estonia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Estonia"
+    },
+    {
+        "name": "Eswatini",
+        "capital": "Mbabane",
+        "flagUrl": "https://cdn.britannica.com/29/4229-050-BED17BAD/Flag-Eswatini.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Eswatini"
+    },
+    {
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "flagUrl": "https://cdn.britannica.com/12/12-050-F610849C/Flag-Ethiopia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Ethiopia"
+    },
+    {
+        "name": "Fiji",
+        "capital": "Suva",
+        "flagUrl": "https://cdn.britannica.com/86/3286-050-F16637E1/Flag-Fiji.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Fiji-republic-Pacific-Ocean"
+    },
+    {
+        "name": "Finland",
+        "capital": "Helsinki",
+        "flagUrl": "https://cdn.britannica.com/79/579-050-02C3366F/Flag-Finland.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Finland"
+    },
+    {
+        "name": "France",
+        "capital": "Paris",
+        "flagUrl": "https://cdn.britannica.com/82/682-050-8AA3D6A6/Flag-France.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/France"
+    },
+    {
+        "name": "Gabon",
+        "capital": "Libreville",
+        "flagUrl": "https://cdn.britannica.com/85/7185-050-2DEB57E7/Flag-Gabon.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Gabon"
+    },
+    {
+        "name": "The Gambia",
+        "capital": "Banjul",
+        "flagUrl": "https://cdn.britannica.com/52/5052-050-1B0B7D02/Flag-of-The-Gambia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/The-Gambia"
+    },
+    {
+        "name": "Georgia",
+        "capital": "Tbilisi",
+        "flagUrl": "https://cdn.britannica.com/17/4717-050-0B745462/Flag-Republic-of-Georgia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Georgia"
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "flagUrl": "https://cdn.britannica.com/97/897-050-0BFECDA5/Flag-Germany.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Germany"
+    },
+    {
+        "name": "Ghana",
+        "capital": "Accra",
+        "flagUrl": "https://cdn.britannica.com/54/5054-050-8EC06097/Flag-Ghana.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Ghana"
+    },
+    {
+        "name": "Greece",
+        "capital": "Athens",
+        "flagUrl": "https://cdn.britannica.com/49/1049-050-3AD6578E/Flag-Greece.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Greece"
+    },
+    {
+        "name": "Grenada",
+        "capital": "St. George’s",
+        "flagUrl": "https://cdn.britannica.com/16/5116-050-D9AE694E/Flag-Grenada.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Grenada"
+    },
+    {
+        "name": "Guatemala",
+        "capital": "Guatemala City",
+        "flagUrl": "https://cdn.britannica.com/13/7213-050-B24C9649/Flag-Guatemala.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Guatemala"
+    },
+    {
+        "name": "Guinea",
+        "capital": "Conakry",
+        "flagUrl": "https://cdn.britannica.com/56/5056-050-3E67DC5A/Flag-Guinea.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Guinea"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "capital": "Bissau",
+        "flagUrl": "https://cdn.britannica.com/58/5058-050-35649F16/Flag-Guinea-Bissau.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Guinea-Bissau"
+    },
+    {
+        "name": "Guyana",
+        "capital": "Georgetown",
+        "flagUrl": "https://cdn.britannica.com/06/1106-050-B039CA21/Flag-Guyana.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Guyana"
+    },
+    {
+        "name": "Haiti",
+        "capital": "Port-au-Prince",
+        "flagUrl": "https://cdn.britannica.com/18/5118-050-CC58F6D2/Flag-Haiti.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Haiti"
+    },
+    {
+        "name": "Honduras",
+        "capital": "Tegucigalpa",
+        "flagUrl": "https://cdn.britannica.com/16/7216-050-8CC469AB/Flag-Honduras.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Honduras"
+    },
+    {
+        "name": "Hungary",
+        "capital": "Budapest",
+        "flagUrl": "https://cdn.britannica.com/55/1455-050-CCDFFCF0/Flag-Hungary.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Hungary"
+    },
+    {
+        "name": "Iceland",
+        "capital": "Reykjavík",
+        "flagUrl": "https://cdn.britannica.com/85/1485-050-2819302A/Flag-Iceland.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Iceland"
+    },
+    {
+        "name": "India",
+        "capital": "New Delhi",
+        "flagUrl": "https://cdn.britannica.com/97/1597-050-008F30FA/Flag-India.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/India"
+    },
+    {
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "flagUrl": "https://cdn.britannica.com/48/1648-050-9C1F365D/Flag-Indonesia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Indonesia"
+    },
+    {
+        "name": "Iran",
+        "capital": "Tehrān",
+        "flagUrl": "https://cdn.britannica.com/22/1722-050-B489CA11/Flag-Iran.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Iran"
+    },
+    {
+        "name": "Iraq",
+        "capital": "Baghdad",
+        "flagUrl": "https://cdn.britannica.com/28/1728-050-FC0FCF9D/Flag-Iraq.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Iraq"
+    },
+    {
+        "name": "Ireland",
+        "capital": "Dublin",
+        "flagUrl": "https://cdn.britannica.com/90/142290-131-B3984BB1/flags-world-Countries-relations-Globalization-arts-entertainment-2010.jpg",
+        "sourceUrl": "https://www.britannica.com/place/Ireland"
+    },
+    {
+        "name": "Israel",
+        "capital": "Jerusalem",
+        "flagUrl": "https://cdn.britannica.com/53/1753-050-6B7054D1/Flag-Israel.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Israel"
+    },
+    {
+        "name": "Italy",
+        "capital": "Rome",
+        "flagUrl": "https://cdn.britannica.com/59/1759-050-FCD5A574/Flag-Italy.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Italy"
+    },
+    {
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "flagUrl": "https://cdn.britannica.com/20/5120-050-4202E1B8/Flag-Jamaica.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Jamaica"
+    },
+    {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "flagUrl": "https://cdn.britannica.com/91/1791-050-270C9B3E/Flag-Japan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Japan"
+    },
+    {
+        "name": "Jordan",
+        "capital": "Amman",
+        "flagUrl": "https://cdn.britannica.com/40/1840-050-8F081B2B/Flag-Jordan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Jordan"
+    },
+    {
+        "name": "Kazakhstan",
+        "capital": "Nur-Sultan",
+        "flagUrl": "https://cdn.britannica.com/39/7239-050-91C5D36A/Flag-Kazakhstan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Kazakhstan"
+    },
+    {
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "flagUrl": "https://cdn.britannica.com/15/15-050-B075588A/Flag-Kenya.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Kenya"
+    },
+    {
+        "name": "Kiribati",
+        "capital": "Tarawa",
+        "flagUrl": "https://cdn.britannica.com/88/3288-050-DB8EB516/Flag-Kiribati.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Kiribati"
+    },
+    {
+        "name": "North Korea",
+        "capital": "P’yŏngyang",
+        "flagUrl": "https://cdn.britannica.com/47/1947-050-68FB6BE0/Flag-North-Korea.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/North-Korea"
+    },
+    {
+        "name": "South Korea",
+        "capital": "Seoul",
+        "flagUrl": "https://cdn.britannica.com/49/1949-050-39ED83BA/Flag-South-Korea.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/South-Korea"
+    },
+    {
+        "name": "Kosovo",
+        "capital": "Pristina",
+        "flagUrl": "https://cdn.britannica.com/18/114418-050-E12B5707/Flag-Kosovo.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Kosovo"
+    },
+    {
+        "name": "Kuwait",
+        "capital": "Kuwait",
+        "flagUrl": "https://cdn.britannica.com/70/5770-050-BD7FAEFD/Flag-Kuwait.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Kuwait"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "flagUrl": "https://cdn.britannica.com/41/7241-050-F8F291A0/Flag-Kyrgyzstan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Kyrgyzstan"
+    },
+    {
+        "name": "Laos",
+        "capital": "Vientiane (Viangchan)",
+        "flagUrl": "https://cdn.britannica.com/29/4029-050-2707C4AA/Flag-Laos.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Laos"
+    },
+    {
+        "name": "Latvia",
+        "capital": "Riga",
+        "flagUrl": "https://cdn.britannica.com/49/6249-050-774B3995/Flag-Latvia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Latvia"
+    },
+    {
+        "name": "Lebanon",
+        "capital": "Beirut",
+        "flagUrl": "https://cdn.britannica.com/73/2073-050-08B85E40/Flag-Lebanon.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Lebanon"
+    },
+    {
+        "name": "Lesotho",
+        "capital": "Maseru",
+        "flagUrl": "https://cdn.britannica.com/18/4218-050-2BB0CD6D/Lesotho-flag-colours-design-countries-sub-Saharan-African.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Lesotho"
+    },
+    {
+        "name": "Liberia",
+        "capital": "Monrovia",
+        "flagUrl": "https://cdn.britannica.com/60/5060-050-5F237FDD/Flag-Liberia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Liberia"
+    },
+    {
+        "name": "Libya",
+        "capital": "Tripoli",
+        "flagUrl": "https://cdn.britannica.com/37/3037-050-AF128FD1/Flag-Libya.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Libya"
+    },
+    {
+        "name": "Liechtenstein",
+        "capital": "Vaduz",
+        "flagUrl": "https://cdn.britannica.com/02/2102-050-2976AFDD/Flag-Liechtenstein.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Liechtenstein"
+    },
+    {
+        "name": "Lithuania",
+        "capital": "Vilnius",
+        "flagUrl": "https://cdn.britannica.com/52/6252-050-A3423929/Flag-Lithuania.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Lithuania"
+    },
+    {
+        "name": "Luxembourg",
+        "capital": "Luxembourg",
+        "flagUrl": "https://cdn.britannica.com/23/2223-050-6771361A/Flag-Luxembourg.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Luxembourg"
+    },
+    {
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "flagUrl": "https://cdn.britannica.com/46/2246-050-BBAA2DFD/Flag-Madagascar.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Madagascar"
+    },
+    {
+        "name": "Malawi",
+        "capital": "Lilongwe",
+        "flagUrl": "https://cdn.britannica.com/21/4221-050-1830E77A/Flag-Malawi.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Malawi"
+    },
+    {
+        "name": "Malaysia",
+        "capital": "Putrajaya",
+        "flagUrl": "https://cdn.britannica.com/31/4031-050-A6FEE261/Flag-Malaysia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Malaysia"
+    },
+    {
+        "name": "Maldives",
+        "capital": "Male",
+        "flagUrl": "https://cdn.britannica.com/80/2280-050-322910B4/Flag-Maldives.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Maldives"
+    },
+    {
+        "name": "Mali",
+        "capital": "Bamako",
+        "flagUrl": "https://cdn.britannica.com/62/5062-050-35FFA3BE/Flag-Mali.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Mali"
+    },
+    {
+        "name": "Malta",
+        "capital": "Valletta",
+        "flagUrl": "https://cdn.britannica.com/86/2286-050-C9E3A660/Flag-Malta.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Malta"
+    },
+    {
+        "name": "Marshall Islands",
+        "capital": "Majuro",
+        "flagUrl": "https://cdn.britannica.com/90/3290-050-16A4798B/Flag-of-Marshall-Islands.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Marshall-Islands"
+    },
+    {
+        "name": "Mauritania",
+        "capital": "Nouakchott",
+        "flagUrl": "https://cdn.britannica.com/64/5064-050-C2F7A773/Flag-Mauritania.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Mauritania"
+    },
+    {
+        "name": "Mauritius",
+        "capital": "Port Louis",
+        "flagUrl": "https://cdn.britannica.com/11/2411-050-02A79B72/Flag-Mauritius.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Mauritius"
+    },
+    {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "flagUrl": "https://cdn.britannica.com/73/2573-050-C825CE68/Flag-Mexico.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Mexico"
+    },
+    {
+        "name": "Micronesia",
+        "capital": "Palikir",
+        "flagUrl": "https://cdn.britannica.com/92/3292-050-44E9DB74/Flag-Federated-States-of-Micronesia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Micronesia-republic-Pacific-Ocean"
+    },
+    {
+        "name": "Moldova",
+        "capital": "Chișinău",
+        "flagUrl": "https://cdn.britannica.com/10/6210-050-63378AC3/Flag-Moldova.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Moldova"
+    },
+    {
+        "name": "Monaco",
+        "capital": "See footnote 2.",
+        "flagUrl": "https://cdn.britannica.com/50/2750-050-688E6E49/Flag-Monaco.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Monaco"
+    },
+    {
+        "name": "Mongolia",
+        "capital": "Ulaanbaatar (Ulan Bator)",
+        "flagUrl": "https://cdn.britannica.com/56/2756-050-31955A5E/Flag-Mongolia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Mongolia"
+    },
+    {
+        "name": "Montenegro",
+        "capital": "Podgorica",
+        "flagUrl": "https://cdn.britannica.com/41/94841-050-8C713AEF/flag-Montenegro.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Montenegro"
+    },
+    {
+        "name": "Morocco",
+        "capital": "Rabat",
+        "flagUrl": "https://cdn.britannica.com/39/3039-050-1F5CC176/Flag-Morocco.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Morocco"
+    },
+    {
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "flagUrl": "https://cdn.britannica.com/23/4223-050-7320D66F/Flag-Mozambique.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Mozambique"
+    },
+    {
+        "name": "Myanmar",
+        "capital": "Nay Pyi Taw",
+        "flagUrl": "https://cdn.britannica.com/34/4034-050-91EE1BCF/Flag-Myanmar.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Myanmar"
+    },
+    {
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "flagUrl": "https://cdn.britannica.com/25/4225-050-8FDF3956/Flag-Namibia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Namibia"
+    },
+    {
+        "name": "Nauru",
+        "capital": "See footnote 2.",
+        "flagUrl": "https://cdn.britannica.com/94/3294-050-3CBC6C7C/Flag-Nauru.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Nauru"
+    },
+    {
+        "name": "Nepal",
+        "capital": "Kathmandu",
+        "flagUrl": "https://cdn.britannica.com/70/2970-050-796F522C/Flag-Nepal.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Nepal"
+    },
+    {
+        "name": "Netherlands",
+        "capital": "Amsterdam",
+        "flagUrl": "https://cdn.britannica.com/82/2982-050-4A783E03/flag-prototype-Netherlands-countries-European-flags.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Netherlands"
+    },
+    {
+        "name": "New Zealand",
+        "capital": "Wellington",
+        "flagUrl": "https://cdn.britannica.com/17/3017-050-CD9032F3/Flag-New-Zealand.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/New-Zealand"
+    },
+    {
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "flagUrl": "https://cdn.britannica.com/19/7219-050-7D2C062F/Flag-Nicaragua.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Nicaragua"
+    },
+    {
+        "name": "Niger",
+        "capital": "Niamey",
+        "flagUrl": "https://cdn.britannica.com/66/5066-050-23FA7225/Flag-Niger.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Niger"
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "flagUrl": "https://cdn.britannica.com/68/5068-050-53E22285/Flag-Nigeria.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Nigeria"
+    },
+    {
+        "name": "North Macedonia",
+        "capital": "Skopje",
+        "flagUrl": "https://cdn.britannica.com/08/6208-050-930F76BA/Flag-North-Macedonia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/North-Macedonia"
+    },
+    {
+        "name": "Norway",
+        "capital": "Oslo",
+        "flagUrl": "https://cdn.britannica.com/01/3101-050-1BB27B69/Flag-Norway.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Norway"
+    },
+    {
+        "name": "Oman",
+        "capital": "Muscat",
+        "flagUrl": "https://cdn.britannica.com/73/5773-050-1AA1BA5C/Flag-Oman.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Oman"
+    },
+    {
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "flagUrl": "https://cdn.britannica.com/46/3346-050-F71DF512/flag-symbolism-Pakistan-design-Islamic.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Pakistan"
+    },
+    {
+        "name": "Palau",
+        "capital": "Melekeok, on Babelthuap",
+        "flagUrl": "https://cdn.britannica.com/49/3349-050-D1D56792/Flag-Palau.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Palau"
+    },
+    {
+        "name": "Panama",
+        "capital": "Panama City",
+        "flagUrl": "https://cdn.britannica.com/22/7222-050-6F298F2B/Flag-Panama.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Panama"
+    },
+    {
+        "name": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "flagUrl": "https://cdn.britannica.com/96/3296-050-FC8DF90B/Flag-Papua-New-Guinea.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Papua-New-Guinea"
+    },
+    {
+        "name": "Paraguay",
+        "capital": "Asunción",
+        "flagUrl": "https://cdn.britannica.com/77/3377-050-F05BF1D9/Flag-Paraguay.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Paraguay"
+    },
+    {
+        "name": "Peru",
+        "capital": "Lima",
+        "flagUrl": "https://cdn.britannica.com/48/3448-050-1EFC8CF3/Flag-Peru.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Peru"
+    },
+    {
+        "name": "Philippines",
+        "capital": "Manila",
+        "flagUrl": "https://cdn.britannica.com/73/3473-050-3A33E719/Flag-Philippines.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Philippines"
+    },
+    {
+        "name": "Poland",
+        "capital": "Warsaw",
+        "flagUrl": "https://cdn.britannica.com/52/3552-050-3E9D7E32/Flag-Poland.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Poland"
+    },
+    {
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "flagUrl": "https://cdn.britannica.com/88/3588-050-323A5397/Flag-Portugal.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Portugal"
+    },
+    {
+        "name": "Qatar",
+        "capital": "Doha",
+        "flagUrl": "https://cdn.britannica.com/76/5776-050-74220DEB/Flag-Qatar.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Qatar"
+    },
+    {
+        "name": "Romania",
+        "capital": "Bucharest",
+        "flagUrl": "https://cdn.britannica.com/13/6213-050-374AB4AF/Flag-Romania.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Romania"
+    },
+    {
+        "name": "Russia",
+        "capital": "Moscow",
+        "flagUrl": "https://cdn.britannica.com/42/3842-050-68EEE2C4/Flag-Russia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Russia"
+    },
+    {
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "flagUrl": "https://cdn.britannica.com/88/7188-050-EBF5062C/Flag-Rwanda.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Rwanda"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "flagUrl": "https://cdn.britannica.com/22/5122-050-9813E394/Flag-Saint-Kitts-and-Nevis.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Saint-Kitts-and-Nevis"
+    },
+    {
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "flagUrl": "https://cdn.britannica.com/24/5124-050-8F6BCAC8/Flag-Saint-Lucia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Saint-Lucia"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "flagUrl": "https://cdn.britannica.com/26/5126-050-EE1C3AA7/Flag-Saint-Vincent-and-the-Grenadines.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Saint-Vincent-and-the-Grenadines"
+    },
+    {
+        "name": "Samoa",
+        "capital": "Apia",
+        "flagUrl": "https://cdn.britannica.com/08/3308-050-9DB345F2/Flag-Samoa.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Samoa-island-nation-Pacific-Ocean"
+    },
+    {
+        "name": "San Marino",
+        "capital": "San Marino",
+        "flagUrl": "https://cdn.britannica.com/07/4207-050-78A7C297/flag-one-few-San-Marino-Europe-design.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/San-Marino-republic-Europe"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "capital": "São Tomé",
+        "flagUrl": "https://cdn.britannica.com/91/7191-050-DDF8DC1F/Flag-Sao-Tome-and-Principe.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Sao-Tome-and-Principe"
+    },
+    {
+        "name": "Saudi Arabia",
+        "capital": "Riyadh",
+        "flagUrl": "https://cdn.britannica.com/79/5779-050-46C999AF/Flag-Saudi-Arabia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Saudi-Arabia"
+    },
+    {
+        "name": "Senegal",
+        "capital": "Dakar",
+        "flagUrl": "https://cdn.britannica.com/70/5070-050-8968E7E7/Flag-Senegal.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Senegal"
+    },
+    {
+        "name": "Serbia",
+        "capital": "Belgrade",
+        "flagUrl": "https://cdn.britannica.com/39/94839-050-6827FB80/Flag-Serbia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Serbia"
+    },
+    {
+        "name": "Seychelles",
+        "capital": "Victoria",
+        "flagUrl": "https://cdn.britannica.com/93/4093-050-E48CBA8F/Flag-Seychelles.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Seychelles"
+    },
+    {
+        "name": "Sierra Leone",
+        "capital": "Freetown",
+        "flagUrl": "https://cdn.britannica.com/72/5072-050-823E3632/Flag-Sierra-Leone.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Sierra-Leone"
+    },
+    {
+        "name": "Singapore",
+        "capital": "Singapore",
+        "flagUrl": "https://cdn.britannica.com/36/4036-050-37052A78/Flag-Singapore.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Singapore"
+    },
+    {
+        "name": "Slovakia",
+        "capital": "Bratislava",
+        "flagUrl": "https://cdn.britannica.com/88/7888-050-2DD04243/Flag-Slovakia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Slovakia"
+    },
+    {
+        "name": "Slovenia",
+        "capital": "Ljubljana",
+        "flagUrl": "https://cdn.britannica.com/15/6215-050-E67C9969/Flag-Slovenia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Slovenia"
+    },
+    {
+        "name": "Solomon Islands",
+        "capital": "Honiara",
+        "flagUrl": "https://cdn.britannica.com/98/3298-050-9F44CA8A/Flag-Solomon-Islands.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Solomon-Islands"
+    },
+    {
+        "name": "Somalia",
+        "capital": "Mogadishu",
+        "flagUrl": "https://cdn.britannica.com/18/18-050-D6793418/Flag-Somalia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Somalia"
+    },
+    {
+        "name": "South Africa",
+        "capital": "Pretoria",
+        "flagUrl": "https://cdn.britannica.com/27/4227-050-00DBD10A/Flag-South-Africa.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/South-Africa"
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "flagUrl": "https://cdn.britannica.com/36/4336-050-056AC114/Flag-Spain.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Spain"
+    },
+    {
+        "name": "Sri Lanka",
+        "capital": "Colombo",
+        "flagUrl": "https://cdn.britannica.com/13/4413-050-98188B5C/Flag-Sri-Lanka.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Sri-Lanka"
+    },
+    {
+        "name": "Sudan",
+        "capital": "Khartoum",
+        "flagUrl": "https://cdn.britannica.com/96/4496-050-882684AB/Flag-Sudan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Sudan"
+    },
+    {
+        "name": "South Sudan",
+        "capital": "Juba",
+        "flagUrl": "https://cdn.britannica.com/37/150637-050-51180EB1/Bandera-de-Sudan-del-Sur.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/South-Sudan"
+    },
+    {
+        "name": "Suriname",
+        "capital": "Paramaribo",
+        "flagUrl": "https://cdn.britannica.com/20/4520-050-BEC08B7F/Flag-Suriname.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Suriname"
+    },
+    {
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "flagUrl": "https://cdn.britannica.com/30/4530-050-0A5FA881/Flag-Sweden.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Sweden"
+    },
+    {
+        "name": "Switzerland",
+        "capital": "Bern",
+        "flagUrl": "https://cdn.britannica.com/43/4543-050-5A18E5A3/Flag-Switzerland.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Switzerland"
+    },
+    {
+        "name": "Syria",
+        "capital": "Damascus",
+        "flagUrl": "https://cdn.britannica.com/50/4550-050-178BABF0/Flag-Syria.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Syria"
+    },
+    {
+        "name": "Taiwan",
+        "capital": "Taipei",
+        "flagUrl": "https://cdn.britannica.com/62/4562-050-A3B1915F/Flag-Taiwan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Taiwan"
+    },
+    {
+        "name": "Tajikistan",
+        "capital": "Dushanbe",
+        "flagUrl": "https://cdn.britannica.com/43/7243-050-76BDAF83/Flag-Tajikistan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Tajikistan"
+    },
+    {
+        "name": "Tanzania",
+        "capital": "Dodoma",
+        "flagUrl": "https://cdn.britannica.com/20/20-050-33766E25/Flag-Tanzania.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Tanzania"
+    },
+    {
+        "name": "Thailand",
+        "capital": "Bangkok",
+        "flagUrl": "https://cdn.britannica.com/38/4038-050-BDDBA6AB/Flag-Thailand.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Thailand"
+    },
+    {
+        "name": "Togo",
+        "capital": "Lomé",
+        "flagUrl": "https://cdn.britannica.com/74/5074-050-4BE7B9CB/Flag-Togo.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Togo"
+    },
+    {
+        "name": "Tonga",
+        "capital": "Nukuʿalofa",
+        "flagUrl": "https://cdn.britannica.com/01/3301-050-64DF653A/Flag-Tonga.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Tonga"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "flagUrl": "https://cdn.britannica.com/28/5128-050-8FD50B19/Flag-Trinidad-and-Tobago.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Trinidad-and-Tobago"
+    },
+    {
+        "name": "Tunisia",
+        "capital": "Tunis",
+        "flagUrl": "https://cdn.britannica.com/41/3041-050-FB226C26/Flag-Tunisia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Tunisia"
+    },
+    {
+        "name": "Turkey",
+        "capital": "Ankara",
+        "flagUrl": "https://cdn.britannica.com/82/4782-050-8129909C/Flag-Turkey.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Turkey"
+    },
+    {
+        "name": "Turkmenistan",
+        "capital": "Ashgabat",
+        "flagUrl": "https://cdn.britannica.com/45/7245-050-CCDF4B7E/Flag-Turkmenistan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Turkmenistan"
+    },
+    {
+        "name": "Tuvalu",
+        "capital": "Funafuti Atoll",
+        "flagUrl": "https://cdn.britannica.com/03/3303-050-D72C968A/Flag-Tuvalu.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Tuvalu"
+    },
+    {
+        "name": "Uganda",
+        "capital": "Kampala",
+        "flagUrl": "https://cdn.britannica.com/22/22-050-E5AD8F85/Flag-Uganda.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Uganda"
+    },
+    {
+        "name": "Ukraine",
+        "capital": "Kyiv",
+        "flagUrl": "https://cdn.britannica.com/14/4814-050-12EFD9D1/Flag-Ukraine.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Ukraine"
+    },
+    {
+        "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "flagUrl": "https://cdn.britannica.com/82/5782-050-8A763A9A/Flag-United-Arab-Emirates.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/United-Arab-Emirates"
+    },
+    {
+        "name": "United Kingdom",
+        "capital": "London",
+        "flagUrl": "https://cdn.britannica.com/25/4825-050-977D8C5E/Flag-United-Kingdom.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/United-Kingdom"
+    },
+    {
+        "name": "United States",
+        "capital": "Washington, D.C.",
+        "flagUrl": "https://cdn.britannica.com/33/4833-050-F6E415FE/Flag-United-States-of-America.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/United-States"
+    },
+    {
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "flagUrl": "https://cdn.britannica.com/74/4874-050-0A8DA452/Flag-Uruguay.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Uruguay"
+    },
+    {
+        "name": "Uzbekistan",
+        "capital": "Tashkent",
+        "flagUrl": "https://cdn.britannica.com/47/7247-050-BEEDE5E3/Flag-Uzbekistan.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Uzbekistan"
+    },
+    {
+        "name": "Vanuatu",
+        "capital": "Port-Vila",
+        "flagUrl": "https://cdn.britannica.com/05/3305-050-94F53891/Flag-Vanuatu.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Vanuatu"
+    },
+    {
+        "name": "Vatican City",
+        "capital": "NAN",
+        "flagUrl": "https://cdn.britannica.com/92/4892-050-49B04144/Flag-Vatican-City-exception-rule-European-flag.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Vatican-City"
+    },
+    {
+        "name": "Venezuela",
+        "capital": "Caracas",
+        "flagUrl": "https://cdn.britannica.com/04/4904-050-4D71EA82/Flag-Venezuela.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Venezuela"
+    },
+    {
+        "name": "Vietnam",
+        "capital": "Hanoi",
+        "flagUrl": "https://cdn.britannica.com/41/4041-050-BB4577F8/Flag-Vietnam.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Vietnam"
+    },
+    {
+        "name": "Yemen",
+        "capital": "Sanaa",
+        "flagUrl": "https://cdn.britannica.com/85/5785-050-B3B00563/Flag-Yemen.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Yemen"
+    },
+    {
+        "name": "Zambia",
+        "capital": "Lusaka",
+        "flagUrl": "https://cdn.britannica.com/31/4231-050-B24F289A/Flag-Zambia.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Zambia"
+    },
+    {
+        "name": "Zimbabwe",
+        "capital": "Harare",
+        "flagUrl": "https://cdn.britannica.com/33/4233-050-3A1705E7/Flag-Zimbabwe.jpg?w=400&h=235&c=crop",
+        "sourceUrl": "https://www.britannica.com/place/Zimbabwe"
+    }
+]
