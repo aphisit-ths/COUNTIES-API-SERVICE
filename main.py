@@ -11,7 +11,7 @@ from prepare_data import GET_LINK, GET_FLAGURL, GET_CAPITAL, GET_INFO, GET_DIREC
 app = FastAPI()
 
 origins = [
-    *
+    "*"
 ]
 
 app.add_middleware(
