@@ -11,11 +11,7 @@ from prepare_data import GET_LINK, GET_FLAGURL, GET_CAPITAL, GET_INFO, GET_DIREC
 app = FastAPI()
 
 origins = [
-    "http://localhost.tiangolo.com",
-    "https://localhost.tiangolo.com",
-    "http://localhost",
-    "http://localhost:8080",
-    "http://localhost:3000",
+    *
 ]
 
 app.add_middleware(
